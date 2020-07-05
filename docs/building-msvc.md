@@ -26,7 +26,7 @@ Open **x86 Native Tools Command Prompt for VS 2019.bat**, go to ***BuildPath*** 
 
     SET PATH=%cd%\ThirdParty\Perl\bin;%cd%\ThirdParty\Python27;%cd%\ThirdParty\NASM;%cd%\ThirdParty\jom;%cd%\ThirdParty\cmake\bin;%cd%\ThirdParty\yasm;%PATH%
 
-    git clone --recursive https://github.com/ton-blockchain/tonkeygen.git
+    git clone --recursive https://github.com/tongram/tonkeygen.git
 
     mkdir Libraries
     cd Libraries
@@ -80,7 +80,7 @@ Open **x86 Native Tools Command Prompt for VS 2019.bat**, go to ***BuildPath*** 
     jom -j4 install
     cd ..
 
-    git clone https://github.com/ton-blockchain/ton.git
+    git clone https://github.com/tongram/ton.git
     cd ton
     git checkout eecf05ca
     git submodule init

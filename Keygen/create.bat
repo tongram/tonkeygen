@@ -95,7 +95,7 @@ exit /b %errorlevel%
     echo // a desktop application for the TON Blockchain project.
     echo //
     echo // For license and copyright information please follow this link:
-    echo // https://github.com/ton-blockchain/tonkeygen/blob/master/LEGAL
+    echo // https://github.com/tongram/tonkeygen/blob/master/LEGAL
     echo //
   )> "SourceFiles\!Path!"
   exit /b

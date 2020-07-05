@@ -35,7 +35,7 @@ You can set the multithreaded make parameter by running
 
 Go to ***BuildPath*** and run
 
-    git clone --recursive https://github.com/ton-blockchain/tonkeygen.git
+    git clone --recursive https://github.com/tongram/tonkeygen.git
 
     mkdir Libraries
     cd Libraries
@@ -112,7 +112,7 @@ Go to ***BuildPath*** and run
     sudo make install
     cd ..
 
-    git clone https://github.com/ton-blockchain/ton.git
+    git clone https://github.com/tongram/ton.git
     cd ton
     git checkout eecf05ca
     git submodule init

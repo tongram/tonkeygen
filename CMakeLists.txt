@@ -2,7 +2,7 @@
 # a desktop application for the TON Blockchain project.
 #
 # For license and copyright information please follow this link:
-# https://github.com/ton-blockchain/tonkeygen/blob/master/LEGAL
+# https://github.com/tongram/tonkeygen/blob/master/LEGAL
 
 cmake_minimum_required(VERSION 3.16)
 cmake_policy(SET CMP0076 NEW)

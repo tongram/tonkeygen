@@ -16,7 +16,7 @@ Go to ***BuildPath*** and run
 
     sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 
-    git clone --recursive https://github.com/ton-blockchain/tonkeygen.git
+    git clone --recursive https://github.com/tongram/tonkeygen.git
 
     mkdir -p Libraries/macos
     cd Libraries/macos
@@ -71,7 +71,7 @@ Go to ***BuildPath*** and run
 
     LibrariesPath=`pwd`
 
-    git clone https://github.com/ton-blockchain/ton.git
+    git clone https://github.com/tongram/ton.git
     cd ton
     git checkout eecf05ca
     git submodule init
