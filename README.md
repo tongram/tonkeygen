@@ -1,4 +1,6 @@
-The source code is published under GPLv3 with OpenSSL exception, the license is available [here][license].
+Use this software at your own risk; consult the DISCLAIMER for more information.
+
+The source code is published under MIT with OpenSSL and [TON Keygen](https://github.com/ton-blockchain/tonkeygen) exception, the licenses is available [here][license] and [here](https://github.com/tongram/tonkeygen/blob/master/LICENSE.GPLv3).
 
 ## Build instructions
 
@@ -11,4 +13,3 @@ The source code is published under GPLv3 with OpenSSL exception, the license is 
 [msvc]: docs/building-msvc.md
 [xcode]: docs/building-xcode.md
 [cmake]: docs/building-cmake.md
-
